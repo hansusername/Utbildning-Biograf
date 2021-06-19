@@ -1,0 +1,10 @@
+[18-Jun-2021 18:30:18 Europe/Berlin] PHP Notice:  Undefined variable: infoMovieResult in C:\xampp\htdocs\Projekt\wsp1\Biograf\mainsite.php on line 11
+[18-Jun-2021 18:30:18 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\Projekt\wsp1\Biograf\mainsite.php on line 11
+[18-Jun-2021 18:30:18 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Projekt\wsp1\Biograf\phpscript.php on line 59
+[18-Jun-2021 18:30:18 Europe/Berlin] PHP Notice:  Undefined index: Genre in C:\xampp\htdocs\Projekt\wsp1\Biograf\mainsite.php on line 51
+[18-Jun-2021 18:30:18 Europe/Berlin] PHP Notice:  Undefined index: Genre in C:\xampp\htdocs\Projekt\wsp1\Biograf\mainsite.php on line 51
+[18-Jun-2021 18:30:21 Europe/Berlin] PHP Notice:  Undefined variable: infoMovieResult in C:\xampp\htdocs\Projekt\wsp1\Biograf\mainsite.php on line 11
+[18-Jun-2021 18:30:21 Europe/Berlin] PHP Warning:  mysqli_fetch_array() expects parameter 1 to be mysqli_result, null given in C:\xampp\htdocs\Projekt\wsp1\Biograf\mainsite.php on line 11
+[18-Jun-2021 18:30:21 Europe/Berlin] PHP Notice:  Trying to access array offset on value of type null in C:\xampp\htdocs\Projekt\wsp1\Biograf\phpscript.php on line 59
+[18-Jun-2021 18:30:21 Europe/Berlin] PHP Notice:  Undefined index: Genre in C:\xampp\htdocs\Projekt\wsp1\Biograf\mainsite.php on line 51
+[18-Jun-2021 18:30:21 Europe/Berlin] PHP Notice:  Undefined index: Genre in C:\xampp\htdocs\Projekt\wsp1\Biograf\mainsite.php on line 51

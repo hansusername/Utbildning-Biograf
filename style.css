@@ -1,0 +1,224 @@
+* {
+  font-family: 'Lucida Sans', 'Geneva', Verdana, sans-serif;
+}
+
+#wrapper {
+  width: 1500px;
+  margin: auto;
+}
+
+#displayWindow {
+  position: fixed;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  display: none;
+  height: 100%;
+  width: 100%;
+  background-color: rgba(105, 105, 105, 0.61);
+}
+
+#divUpdateEmail {
+  display: none;
+}
+
+#updatePhone {
+  display: none;
+}
+
+.moreInfo {
+  margin: 20px;
+  padding: 20px;
+}
+
+.btnInfo {
+  height: 30px;
+  width: 100px;
+  background-color: yellowgreen;
+  margin: 10px 18px;
+}
+
+.btnTicket {
+  height: 30px;
+  width: 100px;
+  background-color: yellowgreen;
+  margin: 10px 18px;
+  clear: both;
+}
+
+.headerClick {
+  height: 50px;
+  width: 200px;
+  margin: auto;
+}
+
+.headline {
+  text-align: center;
+  /*color: RGB(124, 20, 9);*/
+  color: red;
+}
+
+.title {
+  text-align: center;
+}
+
+.movieText {
+  margin: 5px;
+}
+
+.asideTextHead {
+  margin: 5px;
+  font-weight: 550;
+}
+
+.asideText {
+  margin: 5px;
+}
+
+.asideTextSmall {
+  font-size: small;
+  margin: 5px;
+}
+
+.btnLogInScreen {
+  height: 50px;
+  width: 225px;
+  margin: 10px 23px;
+  background-color: rgba(212, 112, 54, 0.774);
+  font-size: large;
+  float: left;
+}
+
+.btnNoLogIn {
+  height: 50px;
+  width: 1250px;
+  background-color: rgba(212, 112, 54, 0.774);
+  font-size: large;
+}
+
+.btnsignOut {
+  width: 130px;
+  margin: 5px 25px;
+  background-color: rgba(204, 158, 99, 0.74);
+}
+
+.btnMain {
+  width: 130px;
+  margin: 5px 25px;
+  background-color: rgba(204, 158, 99, 0.74);
+}
+
+.btnClose {
+  margin: 6px;
+  float: right;
+}
+
+.signUpForm {
+  display: inline;
+  margin: 10px;
+}
+
+body {
+  background-image: url("images/biosal.jpg");
+  width: 100%;
+}
+
+header {
+  background-image: url("images/woodsign.jpg");
+  height: 90px;
+  /*width: 1450px;*/
+  margin: auto;
+  border-style: solid;
+  text-align: center;
+}
+
+article.main {
+  width: 1245px;
+  height: 700px;
+  margin: 10px 0px;
+  border-style: solid;
+  border-width: 10px;
+  background-color: white;
+  float: left;
+  overflow-y: scroll;
+}
+
+article.login {
+  width: 1250px;
+  margin: auto;
+}
+
+article.window {
+  margin: 100px auto ;
+  height: 600px;
+  width: 800px;
+
+  background: rgba(204, 158, 99, 0.74);
+}
+
+section.main {
+  height: 500px;
+  width: 580px;
+  margin: 10px;
+  border-style: solid;
+  background-color: rgb(245, 245, 245);
+  float:left;
+}
+
+section.login {
+  height: 360px;
+  width: 550px;
+  margin: 60px 10px;
+  padding: 0px 5px;
+  border-radius: 10px;
+  background-color: rgba(204, 158, 99, 0.74);
+  float: left;
+  clear: both;
+}
+
+section.window {
+  width: 450px;
+  margin: 35px 12px;
+  float: left;
+}
+
+img.movie {
+  height: 430px;
+  width: 270px;
+  margin: 5px;
+  float: right;
+}
+
+img.login {
+  margin: 60px 0px;
+  border-radius: 10px;
+  float: left;
+}
+
+img.window {
+  height: 470px;
+  width: 300px;
+  margin: 35px 0px;
+}
+
+aside {
+  width: 200px;
+  margin: 200px 10px;
+  border-style: solid;
+  background-color: whitesmoke;
+  float: left;
+}
+
+footer {
+  width: 1250px;
+  margin: auto;
+  background-color: rgba(204, 158, 99, 0.74);
+  clear: both;
+  text-align: center
+}
+
+input {
+  width: 150px;
+  margin: 5px;
+}

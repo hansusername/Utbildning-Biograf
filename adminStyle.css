@@ -1,0 +1,80 @@
+* {
+  font-family: 'Lucida Sans', 'Geneva', Verdana, sans-serif;
+}
+
+body {
+  background-image: url("images/biosal.jpg");
+  width: 100%;
+}
+
+header {
+  background-color:lemonchiffon;
+  margin: 0px;
+}
+/*Meny stil*/
+nav {
+  height: 45px;
+  margin: 0px;
+  background-color: rgb(255, 246, 122);
+  
+}
+
+ul {
+  list-style-type: none;
+
+}
+
+li a {
+  width: 150px;
+  margin: 0px;
+  padding: 13px;
+  text-align: center;
+  font-weight: bold;
+  text-decoration: none;
+  background-color: rgb(255, 246, 122);
+  float: left;
+}
+
+nav a:hover {
+  background-color:lavender;
+}
+/*Meny stil avslutas*/
+
+article {
+  height: 750px;
+  width: 100%;
+  background-color: white;
+  overflow-y: scroll;
+}
+
+section {
+  height: 400px;
+  width: 720px;
+  margin: 15px;
+  float: left;
+}
+
+#wrapper {
+  width: 1521px;
+  margin: auto;
+}
+
+.signOut {
+  float: right;
+}
+
+.welcome {
+  margin: 7px;
+  text-align: center;
+  font-size: large;
+}
+
+.inpAddUser {
+  width: 375px;
+  margin: 7px 0px;
+}
+
+.btnUpload {
+  margin: 7px 0px;
+}
+
